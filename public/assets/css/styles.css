@@ -1,0 +1,9 @@
+.splash {
+  position: absolute;
+  display: block;
+  float: none;
+  width: 101%;
+  height: auto;
+  z-index: 99999;
+  top: -10px;
+}​
