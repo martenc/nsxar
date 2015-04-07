@@ -7,3 +7,10 @@
   z-index: 99999;
   top: -10px;
 }​
+
+.column, .columns {
+  position: relative;
+  padding-left: 0;
+  padding-right: 0;
+  float: left;
+}
